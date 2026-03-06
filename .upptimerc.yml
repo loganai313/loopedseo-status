@@ -1,0 +1,11 @@
+owner: loganai313
+repo: loopedseo-status
+sites:
+  - name: LoopedSEO API
+    url: https://staging-api.loopedseo.com/health
+  - name: LoopedSEO App
+    url: https://loopedseo-app.pages.dev
+status-website:
+  cname: status.loopedseo.com
+  name: LoopedSEO Status
+  theme: light
