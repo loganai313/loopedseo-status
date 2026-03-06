@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-api.loopedseo.com.ico",
     "slug": "looped-seo-api",
     "status": "down",
-    "uptime": "3.70%",
-    "uptimeDay": "3.70%",
-    "uptimeWeek": "3.70%",
-    "uptimeMonth": "3.70%",
-    "uptimeYear": "3.70%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 199,
     "timeDay": 199,
     "timeWeek": 199,
@@ -25,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/loopedseo-app.pages.dev.ico",
     "slug": "looped-seo-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "7.15%",
+    "uptimeDay": "7.15%",
+    "uptimeWeek": "7.15%",
+    "uptimeMonth": "7.15%",
+    "uptimeYear": "7.15%",
     "time": 378,
     "timeDay": 378,
     "timeWeek": 378,
     "timeMonth": 378,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-06": 0
+    }
   }
 ]
