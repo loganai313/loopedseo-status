@@ -16,7 +16,7 @@
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-03-06": 0
+      "2026-03-06": 110
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://loopedseo-app.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/loopedseo-app.pages.dev.ico",
     "slug": "looped-seo-app",
-    "status": "down",
-    "uptime": "7.15%",
-    "uptimeDay": "7.15%",
-    "uptimeWeek": "7.15%",
-    "uptimeMonth": "7.15%",
-    "uptimeYear": "7.15%",
-    "time": 378,
-    "timeDay": 378,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
     "dailyMinutesDown": {
-      "2026-03-06": 0
+      "2026-03-06": 110
     }
   }
 ]
